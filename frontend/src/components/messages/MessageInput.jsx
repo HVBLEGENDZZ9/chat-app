@@ -10,7 +10,7 @@ const MessageInput = () => {
 					placeholder='Send a message'
 				/>
 				<button type='submit' className='absolute inset-y-0 end-0 flex items-center pe-3'>
-					<BsSend />
+				 	<BsSend />
 				</button>
 			</div>
 		</form>
